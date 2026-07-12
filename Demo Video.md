@@ -3,11 +3,11 @@ This folder contains the complete demo video of the Personalized Networking Assi
 
 📌 The demonstration includes:
 
-Backend API execution using FastAPI
-Frontend interface using Streamlit
-AI-powered conversation topic generation
-Fact-checking functionality
-Feedback submission with Session ID and Ratings
+1. Backend API execution using FastAPI.
+2. Frontend interface using Streamlit.
+3. AI-powered conversation topic generation.
+4. Fact-checking functionality.
+5. Feedback submission with Session ID and Ratings.
 
 
 Here's the Demo Video:
