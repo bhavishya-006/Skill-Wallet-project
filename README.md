@@ -19,13 +19,13 @@ Technologies Used
 Git & GitHub Project Structure Personalized-Networking-Assistant │ ├── Brainstorming & Ideation ├── Requirement Analysis ├── Project Design Phase ├── Project Planning Phase ├── Project Development Phase ├── Project Testing ├── Project Documentation ├── Project Demonstration ├── backend ├── frontend ├── data ├── tests ├── requirements.txt └── README.md Features
 
 Analyze event details
-
+        
 Generate networking conversation starters
-
+        
 Fact checking
-
+        
 Store conversation history
-
+        
 Save user feedback
 
 Interactive Streamlit interface
@@ -45,9 +45,9 @@ Project Name: Personalized Networking Assistant
 Done by : Batta Bhavisyavani
 
 
-User login system
-Cloud deployment
-Database integration
-Better AI model
-Mobile application support
+1. User login system
+2. Cloud deployment
+3. Database integration
+4. Better AI model
+5. Mobile application support
 This project was developed as part of the AI/ML & Generative AI Track.
