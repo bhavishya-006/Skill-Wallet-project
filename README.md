@@ -6,15 +6,15 @@ Personalized Networking Assistant is a web application that helps users prepare 
 
 Technologies Used
 
-Python
+1. Python
 
-FastAPI
+2. FastAPI
 
-Streamlit
+3. Streamlit
 
-Hugging Face Transformers
+4. Hugging Face Transformers
 
-JSON
+5. JSON
 
 Git & GitHub Project Structure Personalized-Networking-Assistant │ ├── Brainstorming & Ideation ├── Requirement Analysis ├── Project Design Phase ├── Project Planning Phase ├── Project Development Phase ├── Project Testing ├── Project Documentation ├── Project Demonstration ├── backend ├── frontend ├── data ├── tests ├── requirements.txt └── README.md Features
 
@@ -35,24 +35,15 @@ Installation Install the required packages
 pip install -r requirements.txt
 Run the backend
 
-uvicorn backend.app:app --reload
+uvicorn app.main:app --reload
 Run the frontend
 
 streamlit run frontend/streamlit_app.py
-Team Details
 
 Project Name: Personalized Networking Assistant
 
-Team ID: SWTID-2026-3075
+Done by : Batta Bhavisyavani
 
-Team Members
-
-Gopisetti Nithya Sri
-Kollipara Meghana
-Bathula Vijaya Bhargavi
-Velpula Mahitha
-Kalapala Rajesh
-Future Improvements
 
 User login system
 Cloud deployment
